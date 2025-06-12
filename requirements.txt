@@ -1,0 +1,4 @@
+# Pacotes necessários para o Bot Framework SDK
+botbuilder-core
+botbuilder-schema
+aiohttp

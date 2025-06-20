@@ -67,7 +67,7 @@ class MeuBot(ActivityHandler):
 
     # --- NOVA FUNÇÃO PARA ENVIAR DADOS AO BACKEND ---
     async def enviar_dados_para_backend(self, flow: ConversationFlow) -> bool:
-        url = "http://localhost:8080/api/matriculas"
+        url = "https://api-matricula-douglas-adbkb2befehghqe7.brazilsouth-01.azurewebsites.net/api/matriculas"
         dados_post = {"nome": flow.nome, "email": flow.email, "curso": flow.curso}
         
         try:

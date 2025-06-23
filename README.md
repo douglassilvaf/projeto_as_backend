@@ -49,7 +49,7 @@ projeto\_as\_backend/
    ```bash
    git clone https://github.com/douglassilvaf/projeto_as_backend.git
    cd projeto_as_backend
-````
+   ```
 
 2. **Crie e ative um ambiente virtual**
 
@@ -109,12 +109,6 @@ pytest
 
 ---
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request** com melhorias, correções ou sugestões.
-
----
-
 ## 📄 Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
@@ -125,10 +119,3 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 Douglas Silva – [@douglassilvaf](https://github.com/douglassilvaf)
 Projeto universitário - IBMEC / Curso de Tecnologia da Informação
-
----
-
-```
-
-Se quiser personalizar ainda mais, posso adicionar badges, instruções de deploy, ou exemplos específicos das rotas se você me mostrar o conteúdo do `main.py` ou estrutura do bot. Deseja que eu também gere um `requirements.txt` com base nas libs mencionadas?
-```
